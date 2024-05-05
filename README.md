@@ -1,3 +1,4 @@
+Here's a basic README template for your project:
 
 # E-commerce Purchase Prediction
 
@@ -6,14 +7,14 @@ This project aims to predict whether a customer will purchase a high-value produ
 ## Usage
 
 1. Install the required libraries:
-   
+   ```bash
    pip install numpy scikit-learn
-  
+   ```
 
 2. Run the code:
-   
+   ```bash
    python ecomm_purchase_prediction.py
-   
+   ```
 
 3. Follow the instructions to input customer data (age, time spent on the website, and whether items are added to the cart).
 
