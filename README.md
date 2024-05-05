@@ -1,4 +1,4 @@
-Here's a basic README template for your project:
+
 
 # E-commerce Purchase Prediction
 
